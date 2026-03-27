@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
