@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -36,4 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
