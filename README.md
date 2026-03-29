@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
