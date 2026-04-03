@@ -6,34 +6,24 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         self.answer = []
-        self.set_1 = set()
+    
+        def helper(candidates, idx, stack, target):
 
-        def helper(candidates, stack, idx, target):
-            # BASE CASE 1: IF TARGET IS NEGATIVE, THERE IS NO NEED TO KEEP GOING DEEP
             if idx == len(candidates) or target < 0:
-                return 
+                return
             
-            # BASE CASE 2: IF WE MEET OUR BASE CASE
-            # WE REMOVE THE DUPLICATES USING HASHABLE DATATYPES
-
             if target == 0:
-                stack_tuple = tuple(stack)
-                if stack_tuple not in self.set_1:
-                    self.answer.append(list(stack))
-                    self.set_1.add(stack_tuple)
+                self.answer.append(list(stack))
                 return
             
             stack.append(candidates[idx])
 
-            # INCLUDE ONCE
-            helper(candidates, stack, idx + 1, target - candidates[idx])
+            helper(candidates, idx, stack, target - candidates[idx])
 
-            # INCLUDE MULTIPLE TIMES
-            helper(candidates, stack, idx, target - candidates[idx])
-
-            # BACKTRACKING - EXCLUDE ONCE
             stack.pop()
-            helper(candidates, stack, idx + 1, target)
+            helper(candidates, idx + 1, stack, target)
 
-        helper(candidates, [], 0, target)
-        return self.answer    
+        helper(candidates, 0, [], target)
+        return self.answer
+
+        
