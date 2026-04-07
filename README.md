@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 ## Tree
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
