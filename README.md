@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0306-additive-number](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0306-additive-number) |
 ## Matrix
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 ## Greedy
