@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
