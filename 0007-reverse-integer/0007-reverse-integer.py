@@ -15,8 +15,7 @@ class Solution(object):
             negative = True
             x = x * -1
 
-        str_x = str(x)
-        x_reversed = str_x[::-1]
+        x_reversed = str(x)[::-1]
 
         while x_reversed.startswith("0"):
             x_reversed = x_reversed[1:]
