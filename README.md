@@ -1,5 +1,22 @@
-# My_Leetcode_solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+###  MY LEETCODE SOLUTIONS
+
+> A collection of LeetCode questions to ace the coding interview!
+
+#### QUICK NOTE ON HOW I DO MOST OF MY LEETCODES IN A COMPRESSED 15-MINUTE PERIOD
+
+* **0-3 Mins (Analyze):** Identify constraints (N ≤ 10⁵ → needs O(N)). Match keywords to patterns.
+* **3-5 Mins (Plan):** Draw a sample case on the paper. List edge cases (empty, negative, bounds).
+* **5-12 Mins (Code):** Use syntax templates. Put edge case checks at the top.
+* **12-15 Mins (Test):** Run sample cases, test custom boundaries, fix logs.
+
+### 🧠 Quick Pattern Matcher
+* **Sorted Array:** Two Pointers / Binary Search
+* **Contiguous Subarray:** Sliding Window / Prefix sums
+* **Top K Elements:** Heap / Priority Queue
+* **Shortest Path / Levels:** BFS
+* **Combinations:** Backtracking
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
