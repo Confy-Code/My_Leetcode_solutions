@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
+| [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 ## Design
 |  |
 | ------- |
