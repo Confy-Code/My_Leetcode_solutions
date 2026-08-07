@@ -34,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
+| [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -127,6 +128,7 @@
 | [0242-valid-anagram](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 ## Design
