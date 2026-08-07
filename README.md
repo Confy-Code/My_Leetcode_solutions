@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
+| [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
