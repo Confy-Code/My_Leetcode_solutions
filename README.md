@@ -33,6 +33,7 @@
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
@@ -175,4 +178,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
