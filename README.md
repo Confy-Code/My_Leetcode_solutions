@@ -34,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
@@ -171,6 +173,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
