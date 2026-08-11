@@ -37,6 +37,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
