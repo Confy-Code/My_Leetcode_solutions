@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -50,6 +51,7 @@
 | [0037-sudoku-solver](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1763-longest-nice-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 ## Backtracking
 |  |
@@ -180,6 +182,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0848-shifting-letters) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 ## Design
