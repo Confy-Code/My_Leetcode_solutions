@@ -29,6 +29,7 @@
 | [0039-combination-sum](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -69,6 +70,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
