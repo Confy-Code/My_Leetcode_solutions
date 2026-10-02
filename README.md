@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
@@ -182,6 +183,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Confy-Code/My_Leetcode_solutions/tree/master/0118-pascals-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
